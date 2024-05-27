@@ -1,4 +1,4 @@
-#Puspita Dewi (2371020097) 2E
+#M. Irham Swandaru (2371020135) 2E
 import cv2
 
 face_ref = cv2.CascadeClassifier("face_ref.xml")
